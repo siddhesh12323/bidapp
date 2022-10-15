@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ic_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/ic_home" />
+
+    <item
+        android:id="@+id/ic_mybids"
+        android:icon="@drawable/ic_mybids"
+        android:title="@string/ic_mybids" />
+
+    <item
+        android:id="@+id/ic_myitems"
+        android:icon="@drawable/ic_myitems"
+        android:title="@string/ic_myitems" />
+
+    <item
+        android:id="@+id/sell"
+        android:icon="@drawable/ic_sell"
+        android:title="@string/ic_sell" />
+
+    <item
+        android:id="@+id/chats"
+        android:icon="@drawable/ic_chats"
+        android:title="@string/ic_chats" />
+
+</menu>

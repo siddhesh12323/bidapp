@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BidThis2</string>
+    <string name="text_loginorsignup">Login/Sign Up</string>
+    <string name="text_phoneOrEmail">Phone/Email</string>
+    <string name="text_enterpassword">Password</string>
+    <string name="button_login">Log In</string>
+    <string name="text_firsttime">Are you using the app for the first time?</string>
+    <string name="button_signup">Sign Up</string>
+    <string name="theme_toggle"></string>
+
+    <string name="text_searchbar">Search for items!</string>
+
+    <string name="ic_home">Home</string>
+    <string name="ic_mybids">My Bids</string>
+    <string name="ic_myitems">My items</string>
+    <string name="ic_sell">Sell</string>
+    <string name="ic_chats">Chats</string>
+
+    <string name="item1_name">Rare Pokemon Card 1996</string>
+    <string name="item2_name">Vintage Bread Cutter</string>
+    <string name="item3_name">World War Watch</string>
+    <string name="item4_name">Rare Dagger/Katar</string>
+    
+    <string name="chat">Type to send a message</string>
+    <string name="topbid">Top bid: $350</string>
+    <string name="remainingtime">Bidding ends in: 5d</string>
+    <string name="chatwithseller">Chat</string>
+</resources>
